@@ -27,9 +27,10 @@ Hi, I'm Phil from Brazil.
 **Languages and Tools:**
 
 <p>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" height="40" style="vertical-align:down; margin:4px" alt="C">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" style="vertical-align:down; margin:4px" alt="Java">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" height="40" style="vertical-align:down; margin:4px" alt="Java">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin" height="40" style="vertical-align:down; margin:4px" alt="Kotlin">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" height="40" style="vertical-align:down; margin:4px" alt="Swift">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" height="40" style="vertical-align:down; margin:4px" alt="Spring">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" style="vertical-align:down; margin:4px" alt="PostgreSQL">
 </p>
 
